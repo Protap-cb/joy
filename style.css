@@ -1,0 +1,20 @@
+img{
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+}
+body{
+    background:#333;
+    color:#ffffff;
+}
+.green{
+    color:#ff0000;
+}
+#grad {
+    background-image: linear-gradient(rgb(0, 255, 34), rgb(19, 190, 233));
+  }
+  #grad2 {
+    background-image: linear-gradient(rgb(156, 152, 187), rgb(19, 190, 233));
+  }#grad1 {
+    background-image: linear-gradient(rgb(241, 151, 14), rgb(14, 160, 228));
+  }
